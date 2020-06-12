@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+    <description>
+        <text>American singer, songwriter, and dancer. Dubbed the 'King of Pop', he is regarded as one of the most significant cultural figures of the 20th century and one of the greatest entertainers. 
+
+His contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture for over four decades.</text>
+        <optionA>Michael Jackson</optionA>
+        <optionB>Elvis Presley</optionB>
+        <correct>Michael Jackson</correct>
+    </description>
+    <description>
+        <text>Former temple on the Athenian Acropolis, Greece, dedicated to the goddess Athena, whom the people of Athens considered their patron. 
+        
+Construction began in 447 BC when the Athenian Empire was at the peak of its power. It was completed in 438 BC, although decoration of the building continued until 432 BC. It is the most important surviving building of Classical Greece, generally considered the zenith of the Doric order. 
+
+Its decorative sculptures are considered some of the high points of Greek art.
+
+It is regarded as an enduring symbol of Ancient Greece, Athenian democracy and Western civilization and one of the world's greatest cultural monuments. To the Athenians who built it, this monument and other Periclean ones of the Acropolis were seen fundamentally as a celebration of Hellenic victory over the Persian invaders and as a thanksgiving to the gods for that victory.</text>
+        <optionA>Colosseum</optionA>
+        <optionB>Parthenon</optionB>
+        <correct>Parthenon</correct>
+    </description>
+    <description>
+        <text>American auto racing sanctioning and operating company that is best known for stock-car racing.
+        
+Its three largest or National series are the Monster Energy NASCAR Cup Series, the Xfinity Series, and the Gander Outdoors Truck Series. It sanctions over 1,500 races at over 100 tracks in 48 US states as well as in Canada, Mexico, and Europe. It has presented races at the Suzuka and Motegi circuits in Japan, and the Calder Park Thunderdome in Australia. It also ventures into eSports via the PEAK Antifreeze NASCAR iRacing Series and a sanctioned ladder system on that title.
+        
+The privately owned company was founded by Bill France Sr. in 1948, and Jim France has been CEO since August 6, 2018. The company's headquarters is in Daytona Beach, Florida. Internationally, its races are broadcast on television in over 150 countries.</text>
+        <optionA>Formula One</optionA>
+        <optionB>NASCAR</optionB>
+        <correct>NASCAR</correct>
+    </description>
+    <description>
+        <text>He is a world record holder in the 100 metres, 200 metres and 4 × 100 metres relay. Owing to his achievements and dominance in sprint competition, he is widely considered to be the greatest sprinter of all time.
+        
+An eight-time Olympic gold medallist, he is the only sprinter to win Olympic 100 m and 200 m titles at three consecutive Olympics (2008, 2012 and 2016). In addition he won two 4 x 100 relay gold medals. He gained worldwide fame for his double sprint victory in world record times at the 2008 Beijing Olympics, which made him the first person to hold both records since fully automatic time became mandatory.
+        
+An eleven-time World Champion, he won consecutive World Championship 100 m, 200 m and 4 × 100 metres relay gold medals from 2009 to 2015, with the exception of a 100 m false start in 2011. He is the most successful athlete of the World Championships. He is the first athlete to win four World Championship titles in the 200 m and is the joint-most successful in the 100 m with three titles.</text>
+        <optionA>Usain Bolt</optionA>
+        <optionB>Michael Johnson</optionB>
+        <correct>Usain Bolt</correct>
+    </description>
+    <description>
+        <text>Chemical element with the symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density, and high strength. It is resistant to corrosion in sea water, aqua regia, and chlorine.
+
+This element was discovered in Cornwall, Great Britain, by William Gregor in 1791 and was named by Martin Heinrich Klaproth after the Titans of Greek mythology. The element occurs within a number of mineral deposits, principally rutile and ilmenite, which are widely distributed in the Earth's crust and lithosphere;it is found in almost all living things, as well as bodies of water, rocks, and soils. The metal is extracted from its principal mineral ores by the Kroll and Hunter processes.
+
+It can be alloyed with iron, aluminium, vanadium, and molybdenum, among other elements, to produce strong, lightweight alloys for aerospace (jet engines, missiles, and spacecraft), military, industrial processes (chemicals and petrochemicals, desalination plants, pulp, and paper), automotive, agriculture (farming), medical prostheses, orthopedic implants, dental and endodontic instruments and files, dental implants, sporting goods, jewelry, mobile phones, and other applications.</text>
+        <optionA>Titanium</optionA>
+        <optionB>Uranium</optionB>
+        <correct>Titanium</correct>
+    </description>
+    <description>
+        <text>Dutch-American musician, songwriter, and producer. He is the main songwriter and founder with brother and drummer Alex Van Halen, bassist Mark Stone, and singer David Lee Roth of the American hard rock band Van Halen.
+        
+In 2012, he was voted number one in a Guitar World magazine reader's poll for 'The 100 Greatest Guitarists of All Time'.</text>
+        <optionA>Eddie Van Halen</optionA>
+        <optionB>Bryan May</optionB>
+        <correct>Eddie Van Halen</correct>
+        <text>Multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple and Facebook.\n\nIt was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California.\n\nIt has one of the most visited websites in the world.</text><optionA>Google</optionA><optionB>Cisco Systems</optionB><correct>Google</correct>
+    </description>
+</game>
