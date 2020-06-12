@@ -57,6 +57,57 @@ In 2012, he was voted number one in a Guitar World magazine reader's poll for 'T
         <optionA>Eddie Van Halen</optionA>
         <optionB>Bryan May</optionB>
         <correct>Eddie Van Halen</correct>
-        <text>Multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple and Facebook.\n\nIt was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California.\n\nIt has one of the most visited websites in the world.</text><optionA>Google</optionA><optionB>Cisco Systems</optionB><correct>Google</correct>
+    </description>
+    <description>
+        <text>Multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple and Facebook.
+
+It was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California.
+
+It has one of the most visited websites in the world.</text>
+        <optionA>Google</optionA>
+        <optionB>Cisco Systems</optionB>
+        <correct>Google</correct>
+    </description>
+    <description>
+        <text>Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system.
+
+Born and raised in the Austrian Empire, he received an advanced education in engineering and physics in the 1870s and gained practical experience in the early 1880s working in telephony and at Continental Edison in the new electric power industry.
+
+He emigrated in 1884 to the United States, where he would become a naturalized citizen. He worked for a short time at the Edison Machine Works in New York City before he struck out on his own.
+
+With the help of partners to finance and market his ideas, he set up laboratories and companies in New York to develop a range of electrical and mechanical devices. His alternating current (AC) induction motor and related polyphase AC patents, licensed by Westinghouse Electric in 1888, earned him a considerable amount of money and became the cornerstone of the polyphase system which that company would eventually market.</text>
+        <optionA>Albert Einstein</optionA>
+        <optionB>Nikola Tesla</optionB>
+        <correct>Nikola Tesla</correct>
+    </description>
+    <description>
+        <text>Most successful Greek club in terms of achievements in the European competitions.
+
+It is the only Greek team that has reached the European Cup (later renamed UEFA Champions League) final in 1971 (which they lost to Ajax Amsterdam 2–0), and also the semi-finals twice, in 1985 and 1996. It is also the only Greek team that has played for the Intercontinental Cup (1971). Furthermore, they have reached the quarter-finals of the Champions League on another two occasions (in 1992 and 2002), as well as the quarter-finals of the UEFA Cup twice (1988 and 2003). 
+
+They have also won the Balkans Cup in 1977.</text>
+        <optionA>Olympiakos</optionA>
+        <optionB>Panathinaikos</optionB>
+        <correct>Panathinaikos</correct>
+    </description>
+    <description>
+        <text>American television serial drama created by Paul Scheuring for Fox. The series revolves around two brothers, Lincoln Burrows (Dominic Purcell) and Michael Scofield (Wentworth Miller).
+
+Burrows has been sentenced to death for a crime he did not commit, and Scofield devises an elaborate plan to help his brother escape prison and clear his name. The series was produced by Adelstein-Parouse Productions, in association with Original Television and 20th Century Fox Television.
+
+Along with creator Paul Scheuring, the series is executive produced by Matt Olmstead, Kevin Hooks, Marty Adelstein, Dawn Parouse, Neal H. Moritz, and Brett Ratner who directed the pilot episode. The series' theme music, composed by Ramin Djawadi, was nominated for a Primetime Emmy Award in 2006.</text>
+        <optionA>Lost</optionA>
+        <optionB>Prison Break</optionB>
+        <correct>Prison Break</correct>
+    </description>
+    <description>
+        <text>Continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, Asia to the east, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+
+It covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area).
+
+It is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. It had a total population of about 741 million (about 11% of the world population) as of 2016.</text>
+        <optionA>Europe</optionA>
+        <optionB>Oceania</optionB>
+        <correct>Europe</correct>
     </description>
 </game>
