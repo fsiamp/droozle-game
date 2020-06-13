@@ -5,8 +5,6 @@ Game in which user has to choose between two different answers
 <b>URL</b>: https://Droozle.github.io/droozle<br>
 <b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.droozle
 
-[<img src="https://raw.githubusercontent.com/Droozle/droozle/master/donate.gif">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S4ALKTFPQ2MHW&source=url)
-
 Application written in HTML, Javascript, jQuery and CSS.
 
 It includes a series of questions in which the user is challenged to answer them correctly. 
