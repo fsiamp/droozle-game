@@ -1,21 +1,21 @@
-# Droozle
+# Droozle - Αυτό ή Εκείνο?
 
-Game in which user has to choose between two different answers
+Παιχνίδι στο οποίο ο παίχτης καλείται να επιλέξει ανάμεσα σε δύο απαντήσεις
 
 <b>URL</b>: https://Droozle.github.io/droozle<br>
 <b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Droozle
 
-Application written in HTML, Javascript, jQuery/AJAX and CSS.
+H εφαρμογή είναι γραμμένη σε HTML, Javascript, AJAX/jQuery και CSS.
 
-It includes a series of questions in which the user is challenged to answer them correctly. 
-The answer is based on what describes best the aforementioned piece of text.
+Το παιχνίδι παρουσιάζει μία σειρά από περιγραφές κειμένου για τις οποίες ο παίχτης πρέπει να απαντήσει επιλέγοντας σωστά.
+Η σωστή απάντηση αποτελεί αυτήν η οποία περιγράφει καλύτερα το προαναφερθές κομμάτι κειμένου.
 
-For every question that is answered correctly, player gets 2000 points. 
-If the answer is not correct then 1000 points are lost.
+Για κάθε ερώτηση που απαντάνται σωστά, ο παίχτης συλλέγει 2000 βαθμούς.
+Αν η απάντηση που δόθηκε είναι λάθος, τότε 1000 βαθμοί αφαιρούνται.
 
-Total collected score is appeared at the bottom of the page.
+Το συνολικό σκόρ εμφανίζεται στο κάτω μέρος της σελίδας.
 
-CHALLENGE: Can you answer all the questions correctly?
+CHALLENGE: Μπορείς να απαντήσεις όλες τις ερωτήσεις σωστά?
 
 # Screenshot
 
