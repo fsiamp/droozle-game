@@ -5,7 +5,7 @@ Game in which user has to choose between two different answers
 <b>URL</b>: https://Droozle.github.io/droozle<br>
 <b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Droozle
 
-Application written in HTML, Javascript, jQuery and CSS.
+Application written in HTML, Javascript, jQuery/AJAX and CSS.
 
 It includes a series of questions in which the user is challenged to answer them correctly. 
 The answer is based on what describes best the aforementioned piece of text.
