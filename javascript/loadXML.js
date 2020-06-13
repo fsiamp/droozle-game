@@ -4,7 +4,7 @@ $(document).ready(function(){
 		url: "xml/descriptions.xml",
 		dataType: "xml",
 		success: function(xml){
-			var random = Math.floor(Math.random() * 14);
+			var random = Math.floor(Math.random() * 20);
 			var sText = $(xml).find('text').eq(random).text();
 			var sOptionA = $(xml).find('optionA').eq(random).text();
 			var sOptionB = $(xml).find('optionB').eq(random).text();
@@ -32,7 +32,7 @@ function reply_click(clicked_id) {
 			   else {
 				 document.getElementById("score").value = parseInt(document.getElementById("score").value) - 1000;
 			   }
-			var random = Math.floor(Math.random() * 14);
+			var random = Math.floor(Math.random() * 20);
 			var sText = $(xml).find('text').eq(random).text();
 			var sOptionA = $(xml).find('optionA').eq(random).text();
 			var sOptionB = $(xml).find('optionB').eq(random).text();
