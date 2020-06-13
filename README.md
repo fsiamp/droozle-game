@@ -3,7 +3,7 @@
 Game in which user has to choose between two different answers
 
 <b>URL</b>: https://Droozle.github.io/droozle<br>
-<b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.droozle
+<b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Droozle
 
 Application written in HTML, Javascript, jQuery and CSS.
 
