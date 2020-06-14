@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$.ajax({
 		type: "GET",
-		url: "xml/descriptions.xml",
+		url: "xml/questions.xml",
 		dataType: "xml",
 		success: function(xml){
 		    var questions = [];
@@ -13,7 +13,7 @@ $(document).ready(function(){
 			$('#description').val(sText);
 			$('#choiceA').html(sOptionA);
 			$('#choiceB').html(sOptionB);
-			console.log(questions);
+			//console.log(questions);
 			$('#questions').val(questions.join());
 		},
 		error: function() {
@@ -26,7 +26,7 @@ function reply_click(clicked_id,questions) {
     $(document).ready(function(){
 	$.ajax({
 		type: "GET",
-		url: "xml/descriptions.xml",
+		url: "xml/questions.xml",
 		dataType: "xml",
 		success: function(xml){
 			   if ($(xml).find("correct").text().includes(clicked_id)) {
