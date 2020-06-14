@@ -66,3 +66,10 @@ button {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12) inset;
   min-width: 120px;
 }
+
+/* On screens that are 992px or less, set the relevant button size */
+@media screen and (max-width: 992px) {
+  button {
+    font-size: 19px;
+  }
+}
