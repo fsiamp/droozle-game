@@ -20,7 +20,7 @@ textarea {
   border-style: none solid solid none;
   border-width: medium 1px 1px medium;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12) inset;
-  color: #555555;
+  color: #000;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 1em;
   line-height: 1.4em;
@@ -56,7 +56,7 @@ input {
 img { max-width: 80%; height: auto; }
 
 button {
-  font-size: 21px;
+  font-size: 23.5px;
   font-weight: normal;
   cursor:hand;
   padding: 5px;
@@ -67,9 +67,8 @@ button {
   min-width: 120px;
 }
 
-/* On screens that are 992px or less, set the relevant button size */
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 550px) {
   button {
-    font-size: 19px;
+    font-size: 4vw;
   }
 }
