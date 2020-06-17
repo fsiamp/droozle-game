@@ -56,7 +56,7 @@ input {
 img { max-width: 80%; height: auto; }
 
 button {
-  font-size: 23.5px;
+  font-size: 21px;
   font-weight: normal;
   cursor:hand;
   padding: 5px;
@@ -67,8 +67,9 @@ button {
   min-width: 120px;
 }
 
-@media screen and (max-width: 550px) {
+/* On screens that are 992px or less, set the relevant button size */
+@media screen and (max-width: 992px) {
   button {
-    font-size: 4vw;
+    font-size: 19px;
   }
 }
