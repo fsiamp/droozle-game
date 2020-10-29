@@ -59,7 +59,7 @@ img { max-width: 80%; height: auto; }
 
 button {
   font-size: 26px;
-  font-weight: normal;
+  font-weight: bold;
   cursor:hand;
   padding: 5px;
   border-radius: 6px 6px 6px 6px;
