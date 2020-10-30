@@ -10,7 +10,7 @@ body {
 
 textarea {
   width: 80%;
-  height: 55%;
+  height: 60%;
   -moz-border-bottom-colors: none;
   -moz-border-left-colors: none;
   -moz-border-right-colors: none;
@@ -61,7 +61,7 @@ button {
   font-size: 26px;
   font-weight: bold;
   cursor:hand;
-  padding: 5px;
+  padding: 10px;
   border-radius: 6px 6px 6px 6px;
   border-style: none solid solid none;
   border-width: medium 1px 1px medium;
