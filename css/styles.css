@@ -1,3 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 body {
   overflow-x: hidden;
   font-family:Courier New;
@@ -6,12 +20,11 @@ body {
   background: -moz-linear-gradient(black, blue); /* For Firefox 3.6 to 15 */
   background: linear-gradient(black, blue); /* Standard syntax */
   white-space: normal;
-  margin: 0 auto;
 }
 
 textarea {
   width: 80%;
-  height: 60%;
+  height: 60vh;
   -moz-border-bottom-colors: none;
   -moz-border-left-colors: none;
   -moz-border-right-colors: none;
