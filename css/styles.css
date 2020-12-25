@@ -44,6 +44,7 @@ textarea {
   transition: background-color 0.2s ease 0s;
   resize: none;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 textarea:focus {
