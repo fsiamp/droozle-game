@@ -21,6 +21,7 @@ body {
   background: -moz-linear-gradient(black, blue); /* For Firefox 3.6 to 15 */
   background: linear-gradient(black, blue); /* Standard syntax */
   white-space: normal;
+  -webkit-text-size-adjust:none; 
 }
 
 textarea {
