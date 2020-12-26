@@ -36,7 +36,8 @@ function reply_click(clicked_id,questions) {
 			   else {
 				 document.getElementById("score").value = (parseInt(document.getElementById("score").value) - 1000).toFixed(5);
 				 if (document.getElementById("score").value < 0) {
-				   document.getElementById("score").value = 0.00000;
+				   var zero = 0;
+				   document.getElementById("score").value = zero.toFixed(5);
 				 }
 			   }
 
