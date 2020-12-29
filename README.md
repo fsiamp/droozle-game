@@ -19,4 +19,4 @@ CHALLENGE: Μπορείς να απαντήσεις όλες τις ερωτήσ
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/Droozle/droozle/master/temple.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/droozle/master/temple.png)
