@@ -2,7 +2,7 @@
 
 Παιχνίδι στο οποίο ο παίχτης καλείται να επιλέξει ανάμεσα σε δύο απαντήσεις
 
-<b>URL</b>: https://softdonkey.github.io/droozle/<br>
+<b>URL</b>: https://droozle.gr<br>
 <b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Droozle
 
 H εφαρμογή είναι γραμμένη σε HTML, Javascript, AJAX/jQuery και CSS.
@@ -19,4 +19,4 @@ CHALLENGE: Μπορείς να απαντήσεις όλες τις ερωτήσ
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/softdonkey/droozle/master/temple.PNG)
+![alt tag](https://raw.githubusercontent.com/fsiamp/droozle/master/temple.PNG)
