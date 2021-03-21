@@ -108,7 +108,7 @@ button:hover {
 }
 
 /* On screens that are 992px or less, set the relevant button size */
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 650px) {
   button {
     font-size: 4.5vw;
   }
@@ -119,20 +119,3 @@ button:hover {
     font-size: 4.5vw;
   }
 }
-
-@media screen and (min-width: 950px) {
-  button {
-    font-size: 4.5vw;
-    width: 60%;
-  }
-  textarea {
-    font-size: 4vw;
-    width: 60%;
-  }
-  input {
-    font-size: 4.5vw;
-    width: 60%;
-  }
-}
-
-
