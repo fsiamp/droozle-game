@@ -2,7 +2,7 @@
 
 Παιχνίδι στο οποίο ο παίχτης καλείται να επιλέξει ανάμεσα σε δύο απαντήσεις
 
-<b>URL</b>: https://droozle.gr<br>
+<b>URL</b>: http://droozle.gr<br>
 <b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Droozle
 
 H εφαρμογή είναι γραμμένη σε HTML, Javascript, AJAX/jQuery και CSS.
