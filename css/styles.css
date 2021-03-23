@@ -46,6 +46,7 @@ textarea {
   resize: none;
   overflow-x: hidden;
   scrollbar-width: none;
+  background-color: #fff;
 }
 
 textarea::-webkit-scrollbar {
@@ -74,7 +75,7 @@ input {
   font-size: 30px;
   line-height: 1.4em;
   text-align: center; 
-  background-color: #f7f7f7;
+  background-color: #fff;
 }
 
 img { max-width: 80%; height: auto; }
