@@ -22,7 +22,6 @@ body {
   background: linear-gradient(black, blue); /* Standard syntax */
   white-space: normal;
   -webkit-text-size-adjust:none;
-  opacity: 1; /* required on iOS */
 }
 
 textarea {
@@ -49,6 +48,7 @@ textarea {
   scrollbar-width: none;
   background-color: #fff !important;
   -webkit-text-fill-color: #000;
+  opacity: 1
 }
 
 textarea::-webkit-scrollbar {
@@ -79,6 +79,7 @@ input {
   text-align: center; 
   background-color: #fff !important;
   -webkit-text-fill-color: #000;
+  opacity: 1
 }
 
 img { max-width: 80%; height: auto; }
