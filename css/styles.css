@@ -106,13 +106,13 @@ button:hover {
 	top:1px;
 }
 
-/* On screens that are 992px or less, set the relevant button size */
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 1100px) {
   button {
     font-size: 4.5vw;
   }
   textarea {
     font-size: 4vw;
+	height: 55vh;
   }
   input {
     font-size: 4.5vw;
