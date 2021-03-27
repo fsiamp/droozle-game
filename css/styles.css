@@ -126,13 +126,13 @@ button:hover {
 
 @media screen and (min-width: 2500px) and (min-height: 1400px) {
   button {
-    font-size: 4.5vw;
+    font-size: 30px;
   }
   textarea {
-    font-size: 4vw;
+    font-size: 22px;
     height: 45vh;
   }
   input {
-    font-size: 4.5vw;
+    font-size: 30px;
   }
 }
