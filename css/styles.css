@@ -26,7 +26,7 @@ body {
 
 textarea {
   width: 90%;
-  height: calc(70vh - 50px);
+  height: calc(65vh - 50px);
   -moz-border-bottom-colors: none;
   -moz-border-left-colors: none;
   -moz-border-right-colors: none;
