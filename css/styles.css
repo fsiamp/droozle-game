@@ -86,7 +86,7 @@ input {
   top: 10px;
 }
 
-img { max-width: 50vh; width:90%;}
+img { max-width: 50vh; width:90%; position: relative; top: -15px; }
 
 button {
   box-shadow: 3px 4px 0px 0px #899599;
