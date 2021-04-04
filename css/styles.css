@@ -50,7 +50,7 @@ textarea {
   -webkit-text-fill-color: #000;
   opacity: 1;
   position: relative;
-  top: -5px;
+  top: -1.2vh;
 }
 
 textarea::-webkit-scrollbar {
@@ -78,18 +78,18 @@ input {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 2.5vh;
   line-height: 1.4em;
-  text-align: center; 
+  text-align: center;
   background-color: #fff !important;
   -webkit-text-fill-color: #000;
   opacity: 1;
   position: relative;
-  top: 10px;
+  top: 3.2vh;
 }
 
-img { max-width: 50vh; width:90%; position: relative; top: -15px; }
+img { max-width: 50vh; width:90%;   position: relative; top: -4.2vh;}
 
 button {
-  box-shadow: 3px 4px 0px 0px #899599;
+  box-shadow: 0.5vh 0.7vh 0vh 0vh #899599;
   background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
   background-color:#ededed;
   border-radius:15px;
@@ -99,13 +99,13 @@ button {
   color:#3a8a9e;
   font-family:Tahoma;
   font-size:3vh;
-  padding:2px 25px;
+  padding:0.5vh 2vh;
   text-decoration:none;
   text-shadow:0px 1px 0px #e1e2ed;
   outline:none;
   width: 90%;
   position: relative;
-  top: 0px;
+  top: 0.8vh;
 }
 
 button:hover {
@@ -115,19 +115,4 @@ button:hover {
 .button:active {
 	position:relative;
 	top:1px;
-}
-
-@media only screen and (min-height: 400px) {
-  img {
-    position: relative; 
-	top: -30px;
-  }
-  input {
-    position: relative; 
-	top: 20px;
-  }
-  textarea {
-    position: relative; 
-	top: -15px;
-  }
 }
