@@ -122,13 +122,6 @@ button:hover {
 	border-radius:15px;
 	outline: 0;
 }
-.button:active {
-	position:relative;
-	top:1px;
-	box-shadow: 0.5vh 0.7vh 0vh 0vh #899599;
-    background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
-    background-color:#ededed;
-}
 
 button:focus {
 	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
