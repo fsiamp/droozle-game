@@ -123,12 +123,12 @@ button:hover {
   outline: 0;
 }
 
-button:focus {
+button:active {
   background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
   background-color:#bab1ba;
 }
 
-button:visited {
+button:focus {
   background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
   background-color:#ededed;
 }
