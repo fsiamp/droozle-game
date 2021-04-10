@@ -24,14 +24,6 @@ body {
   -webkit-text-size-adjust:none;
 }
 
-input,
-textarea,
-button,
-select,
-a {
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-}
-
 textarea {
   width: 90%;
   height: calc(65vh - 50px);
@@ -129,6 +121,6 @@ button:active {
 }
 
 button:focus {
-  background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
-  background-color:#ededed;
+  background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+  background-color:#bab1ba;
 }
