@@ -125,6 +125,13 @@ button:hover {
 .button:active {
 	position:relative;
 	top:1px;
+	box-shadow: 0.5vh 0.7vh 0vh 0vh #899599;
+    background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color:#ededed;
+}
+
+button:focus {
+    box-shadow: 0.5vh 0.7vh 0vh 0vh #899599;
     background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
     background-color:#ededed;
 }
