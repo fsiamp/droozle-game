@@ -111,6 +111,7 @@ button {
 button:hover {
 	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
 	background-color:#bab1ba;
+	border-radius:15px;
 }
 .button:active {
 	position:relative;
