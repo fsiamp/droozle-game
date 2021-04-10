@@ -117,9 +117,11 @@ button:hover {
 .button:active {
 	position:relative;
 	top:1px;
+	border-radius:15px;
 }
 
 button:focus {
   outline:none;
   box-shadow: none;
+  border-radius:15px;
 }
