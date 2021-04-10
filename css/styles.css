@@ -102,7 +102,7 @@ button {
   padding:0.5vh 2vh;
   text-decoration:none;
   text-shadow:0px 1px 0px #e1e2ed;
-  outline:none;
+  outline: none !important;
   width: 90%;
   position: relative;
   top: 0.8vh;
@@ -117,11 +117,11 @@ button:hover {
 .button:active {
 	position:relative;
 	top:1px;
-	border-radius:15px;
+	outline: none !important;
 }
 
 button:focus {
-  outline:none;
+  outline: none !important;
   box-shadow: none;
   border-radius:15px;
 }
