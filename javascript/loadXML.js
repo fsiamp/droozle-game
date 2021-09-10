@@ -47,7 +47,7 @@ function reply_click(clicked_id,questions) {
 			    updatedArray = [];
 			}
 			function getRand() {
-				var rand = Math.floor(Math.random() * 243;
+				var rand = Math.floor(Math.random() * 243);
 				//console.log(rand);
 				if ($.inArray(rand.toString(), updatedArray) === -1) {
 					return rand;
