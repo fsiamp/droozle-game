@@ -5,7 +5,7 @@ $(document).ready(function(){
 		dataType: "xml",
 		success: function(xml){
 		    var questions = [];
-			var random = Math.floor(Math.random() * 243);
+			var random = Math.floor(Math.random() * 250);
 			questions.push(random);
 			var sText = $(xml).find('text').eq(random).text();
 			var sOptionA = $(xml).find('optionA').eq(random).text();
@@ -43,11 +43,11 @@ function reply_click(clicked_id,questions) {
 			var flag = 0;
 			var updatedArray = questions.split(',');
 			//console.log(updatedArray);
-			if (updatedArray.length == 243) {
+			if (updatedArray.length == 250) {
 			    updatedArray = [];
 			}
 			function getRand() {
-				var rand = Math.floor(Math.random() * 243);
+				var rand = Math.floor(Math.random() * 250);
 				//console.log(rand);
 				if ($.inArray(rand.toString(), updatedArray) === -1) {
 					return rand;
