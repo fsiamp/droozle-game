@@ -2,8 +2,6 @@
 
 Παιχνίδι στο οποίο ο παίχτης καλείται να επιλέξει ανάμεσα σε δύο απαντήσεις
 
-<b>Google Play Store</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Droozle
-
 H εφαρμογή είναι γραμμένη σε HTML, Javascript, AJAX/jQuery και CSS.
 
 Το παιχνίδι παρουσιάζει μία σειρά από περιγραφές κειμένου για τις οποίες ο παίχτης πρέπει να απαντήσει επιλέγοντας σωστά.
